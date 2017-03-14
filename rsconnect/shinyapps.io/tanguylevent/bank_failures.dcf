@@ -1,0 +1,10 @@
+name: bank_failures
+title: bank_failures
+account: tanguylevent
+server: shinyapps.io
+appId: 163661
+bundleId: 746365
+url: https://tanguylevent.shinyapps.io/bank_failures/
+when: 1489488071.94106
+asMultiple: FALSE
+asStatic: FALSE
