@@ -1,0 +1,20 @@
+---
+title: "Bank failures"
+author: "Tanguy Levent"
+date: "15 mars 2017"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Presentation
+
+This project is related to a kaggle kernet which studied every bank failure in the 
+United States since the Great Depression.
+
+To learn more, see it on [kaggle](https://www.kaggle.com/fdic/bank-failures).
+
+

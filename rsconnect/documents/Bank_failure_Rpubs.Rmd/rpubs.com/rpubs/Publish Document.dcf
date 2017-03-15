@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/258918/fc7712cc857a456eb37032079b130ca9
+bundleId: https://api.rpubs.com/api/v1/document/258918/fc7712cc857a456eb37032079b130ca9
+url: http://rpubs.com/TanguyLevent/258918
+when: 1489588440.63809

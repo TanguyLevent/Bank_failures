@@ -6,8 +6,6 @@ library(data.table)
 
 mdata.bank <- read.csv("data/banks.csv")
 
-mdata.bank$Failure.Date <- as.Date(mdata.bank$Failure.Date, "%m/%d/%Y")
-mdata.bank$Estimated.Loss..2015.[is.na(mdata.bank$Estimated.Loss..2015.)] <- 0
 
 mdata.work <- mdata.bank  %>% select(Institution.Name,Institution.Type,Failure.Date,Estimated.Loss..2015.)
 colname <- c("Name","Type", "Date", "Loss")
